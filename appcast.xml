@@ -3,6 +3,18 @@
     <channel>
         <title>Dump</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 07 Jul 2026 13:17:21 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/myattj/dump-updates/releases/download/v0.1.1-b4/Dump-0.1.1.dmg" length="133101206" type="application/octet-stream" sparkle:edSignature="aJG6mKNK058+NPXqVulX7+LTiQWi97k81gGi4Pps5J3e6/VuSZzImCFOuLnSVBMTOSUeT3oMctOH93LyHIrrDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/myattj/dump-updates/releases/download/v0.1.1-b4/Dump4-3.delta" sparkle:deltaFrom="3" length="156702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LUPnw7KXZgGX/E3jGvnpp7nyz7+LjnddyKyh8+pcBMP0if1goWbD2qSUmX2tq7XAipdPqKQO1FWwlWA9+CGwAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 07 Jul 2026 11:03:48 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
