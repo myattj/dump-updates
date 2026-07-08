@@ -3,6 +3,15 @@
     <channel>
         <title>Dump</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Tue, 07 Jul 2026 21:03:26 -0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/myattj/dump-updates/releases/download/v0.1.2-b5/Dump-0.1.2.dmg" length="136292324" type="application/octet-stream" sparkle:edSignature="G24Uv7YeRkH6gmIUmTI+JCob3WzBcqC6kztz8a8aR2UPtWWrLjqGO9gUq40l8mfczzrW+T4q6twpDu6eIotZAQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Tue, 07 Jul 2026 13:17:21 -0700</pubDate>
             <sparkle:version>4</sparkle:version>
