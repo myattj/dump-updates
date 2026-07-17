@@ -3,6 +3,15 @@
     <channel>
         <title>Dump</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Fri, 17 Jul 2026 15:29:40 -0400</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/myattj/dump/releases/download/v0.1.3-b6/Dump-0.1.3.dmg" length="135961194" type="application/octet-stream" sparkle:edSignature="jKJ8Im8zvLXUzVut1x5lM3Vaf6/WWPUobKY/lvalsLQtJIRzSPDSWx4WY9RjzxE33VAIn3S48sy4ybMCaT3KAw=="/>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Tue, 07 Jul 2026 21:03:26 -0700</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -22,15 +31,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/myattj/dump-updates/releases/download/v0.1.1-b4/Dump4-3.delta" sparkle:deltaFrom="3" length="156702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LUPnw7KXZgGX/E3jGvnpp7nyz7+LjnddyKyh8+pcBMP0if1goWbD2qSUmX2tq7XAipdPqKQO1FWwlWA9+CGwAQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Tue, 07 Jul 2026 11:03:48 -0700</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/myattj/dump-updates/releases/download/v0.1.0-b3/Dump-0.1.0.dmg" length="135610735" type="application/octet-stream" sparkle:edSignature="jejMREexHN/DYzshU6XJ2dQ+hRDjBKKo8KnA80IcyO0trc1qQBOErh0VmsWmiujpd6h1ggnP6AyatvJ1Tu2lCg=="/>
         </item>
     </channel>
 </rss>
